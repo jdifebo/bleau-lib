@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Easily create great rant memes using this famous template! (inside joke, sorry)",
-    "repository": "https://github.com/jdifebo/bleu-lib.git",
+    "repository": "https://github.com/jdifebo/bleau-lib.git",
     "license": "MIT",
     "source-directories": [
         "."
