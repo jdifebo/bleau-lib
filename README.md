@@ -1,4 +1,4 @@
-http://jdifebo.github.io/bleu-lib
+https://jdifebo.github.io/bleu-lib/
 
 This project is built in Elm.  I suck at Elm.  Well I guess that's not really fair.  I'm just not experienced with Elm.  
 You can look at my source code, but it's ugly!  I read about 25% of the intro tutorial before working on this.
