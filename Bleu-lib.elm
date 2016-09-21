@@ -156,5 +156,10 @@ view model =
       , text ", "
       , text model.asheron
       , text "). It all sucks. We should shut the whole thing down."
+    ],
+    br [][],
+    a [href "https://github.com/jdifebo/bleu-lib"] [
+      text "View the source in Elm",
+      img [src "https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png", height 50, width 50] []
     ]
   ]
